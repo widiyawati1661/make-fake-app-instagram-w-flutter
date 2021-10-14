@@ -143,5 +143,3 @@ class _EditProfileStateState extends State<EditProfileState> {
         ]));
   }
 }
-
-class Asset {}
